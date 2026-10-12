@@ -55686,11 +55686,12 @@
 "money_in_title": true,
 "money_title_strong": true,
 "methods": [
-"skills_prompts_templates"
+"automation_agency",
+"course_coaching"
 ],
-"method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"method_src": "desc",
+"primary_method": "unclassified",
+"primary_method_desc_fallback": "course_coaching",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [
@@ -95438,12 +95439,11 @@
 "money_title_strong": false,
 "methods": [
 "saas_apps",
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "saas_apps",
+"primary_method_desc_fallback": "saas_apps",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [],
@@ -132869,12 +132869,11 @@
 "methods": [
 "automation_agency",
 "saas_apps",
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "saas_apps",
+"primary_method_desc_fallback": "saas_apps",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [],
@@ -171989,12 +171988,11 @@
 "methods": [
 "automation_agency",
 "saas_apps",
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "saas_apps",
+"primary_method_desc_fallback": "saas_apps",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [],
@@ -173110,12 +173108,11 @@
 "money_in_title": true,
 "money_title_strong": true,
 "methods": [
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "one_person_business_agents",
+"primary_method_desc_fallback": "one_person_business_agents",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [
@@ -207558,12 +207555,11 @@
 "money_in_title": true,
 "money_title_strong": true,
 "methods": [
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "one_person_business_agents",
+"primary_method_desc_fallback": "one_person_business_agents",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [
@@ -287417,7 +287413,6 @@
 "money_title_strong": true,
 "methods": [
 "saas_apps",
-"skills_prompts_templates",
 "chatbots_voice_agents",
 "one_person_business_agents"
 ],
@@ -330461,12 +330456,11 @@
 "money_in_title": true,
 "money_title_strong": true,
 "methods": [
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "one_person_business_agents",
+"primary_method_desc_fallback": "one_person_business_agents",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [
@@ -398972,12 +398966,11 @@
 "methods": [
 "automation_agency",
 "saas_apps",
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "saas_apps",
+"primary_method_desc_fallback": "saas_apps",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [],
@@ -401003,12 +400996,11 @@
 "money_title_strong": false,
 "methods": [
 "saas_apps",
-"skills_prompts_templates",
 "one_person_business_agents"
 ],
 "method_src": "title",
-"primary_method": "skills_prompts_templates",
-"primary_method_desc_fallback": "skills_prompts_templates",
+"primary_method": "saas_apps",
+"primary_method_desc_fallback": "saas_apps",
 "partner_tag": false,
 "listicle": false,
 "income_claims_title": [],

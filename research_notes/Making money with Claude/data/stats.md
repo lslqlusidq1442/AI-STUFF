@@ -42,72 +42,72 @@ Audio/default language (R, top): [('en', 3536), ('es', 150), ('hi', 146), ('pt',
 
 | Method | any-label n | any % | title-only n | primary n | primary % |
 |---|---|---|---|---|---|
-| Unclassified by title (generic 'make money with Claude' / unclear) | 0 | 0.0% | 0 | 1703 | 42.1% |
-| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 699 | 17.3% | 484 | 399 | 9.9% |
+| Unclassified by title (generic 'make money with Claude' / unclear) | 0 | 0.0% | 0 | 1704 | 42.2% |
+| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 699 | 17.3% | 484 | 402 | 9.9% |
 | Faceless YouTube / TikTok / Instagram / short-form content | 590 | 14.6% | 221 | 212 | 5.2% |
 | Digital products / ebooks / KDP / Etsy / print-on-demand | 537 | 13.3% | 337 | 337 | 8.3% |
-| AI automation agency / selling automations & workflows to businesses | 485 | 12.0% | 244 | 139 | 3.4% |
+| AI automation agency / selling automations & workflows to businesses | 486 | 12.0% | 244 | 139 | 3.4% |
 | Building/selling websites (often to local businesses) | 335 | 8.3% | 220 | 215 | 5.3% |
-| Selling courses / coaching / info products / community about AI | 314 | 7.8% | 26 | 19 | 0.5% |
-| AI agents / 'AI employees' / one-person business (generic) | 282 | 7.0% | 168 | 118 | 2.9% |
+| Selling courses / coaching / info products / community about AI | 315 | 7.8% | 26 | 19 | 0.5% |
+| AI agents / 'AI employees' / one-person business (generic) | 282 | 7.0% | 168 | 121 | 3.0% |
 | Freelancing / gigs (Upwork, Fiverr, services) | 241 | 6.0% | 147 | 134 | 3.3% |
 | Multi-method listicle (e.g. '7 ways to make money with Claude'), no single method in title | 0 | 0.0% | 0 | 240 | 5.9% |
 | Trading / investing / crypto / prediction-market bots | 235 | 5.8% | 176 | 176 | 4.4% |
 | AI skills for jobs / career / salary | 184 | 4.6% | 130 | 91 | 2.3% |
 | Blogging / SEO / affiliate / niche sites / Pinterest | 147 | 3.6% | 81 | 74 | 1.8% |
-| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 105 | 2.6% | 71 | 54 | 1.3% |
 | Lead generation / cold email / outreach / sales | 98 | 2.4% | 61 | 57 | 1.4% |
+| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 97 | 2.4% | 63 | 47 | 1.2% |
 | E-commerce / dropshipping / Shopify / Amazon FBA | 85 | 2.1% | 46 | 44 | 1.1% |
 | AI chatbots / voice agents / receptionists for businesses | 53 | 1.3% | 28 | 27 | 0.7% |
 | Newsletters | 40 | 1.0% | 3 | 3 | 0.1% |
 
-Classified from title: 2099 (51.9%); only via description head (low confidence, not used for primary): 1137; no match anywhere: 806
-Low-confidence description-fallback labels for title-unclassified videos: [('faceless_content', 251), ('digital_products', 194), ('course_coaching', 103), ('websites_local', 92), ('automation_agency', 91), ('saas_apps', 82), ('trading_crypto', 59), ('newsletter', 37), ('freelancing', 36), ('blogging_seo_affiliate', 36), ('one_person_business_agents', 35), ('leadgen_cold_email', 30), ('ecommerce', 26), ('chatbots_voice_agents', 22), ('jobs_career', 22), ('skills_prompts_templates', 21)]
+Classified from title: 2098 (51.9%); only via description head (low confidence, not used for primary): 1138; no match anywhere: 806
+Low-confidence description-fallback labels for title-unclassified videos: [('faceless_content', 251), ('digital_products', 194), ('course_coaching', 104), ('websites_local', 92), ('automation_agency', 91), ('saas_apps', 82), ('trading_crypto', 59), ('newsletter', 37), ('freelancing', 36), ('blogging_seo_affiliate', 36), ('one_person_business_agents', 35), ('leadgen_cold_email', 30), ('ecommerce', 26), ('chatbots_voice_agents', 22), ('jobs_career', 22), ('skills_prompts_templates', 21)]
 
 ## Method frequency — Claude-explicit set A (n=3686)
 
 | Method | any-label n | any % | title-only n | primary n | primary % |
 |---|---|---|---|---|---|
-| Unclassified by title (generic 'make money with Claude' / unclear) | 0 | 0.0% | 0 | 1591 | 43.2% |
-| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 569 | 15.4% | 363 | 290 | 7.9% |
+| Unclassified by title (generic 'make money with Claude' / unclear) | 0 | 0.0% | 0 | 1592 | 43.2% |
+| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 569 | 15.4% | 363 | 293 | 7.9% |
 | Faceless YouTube / TikTok / Instagram / short-form content | 553 | 15.0% | 196 | 189 | 5.1% |
 | Digital products / ebooks / KDP / Etsy / print-on-demand | 493 | 13.4% | 302 | 302 | 8.2% |
-| AI automation agency / selling automations & workflows to businesses | 470 | 12.8% | 231 | 136 | 3.7% |
+| AI automation agency / selling automations & workflows to businesses | 471 | 12.8% | 231 | 136 | 3.7% |
 | Building/selling websites (often to local businesses) | 319 | 8.7% | 206 | 202 | 5.5% |
-| Selling courses / coaching / info products / community about AI | 305 | 8.3% | 21 | 17 | 0.5% |
-| AI agents / 'AI employees' / one-person business (generic) | 267 | 7.2% | 158 | 113 | 3.1% |
+| Selling courses / coaching / info products / community about AI | 306 | 8.3% | 21 | 17 | 0.5% |
+| AI agents / 'AI employees' / one-person business (generic) | 267 | 7.2% | 158 | 114 | 3.1% |
 | Freelancing / gigs (Upwork, Fiverr, services) | 229 | 6.2% | 136 | 124 | 3.4% |
 | Trading / investing / crypto / prediction-market bots | 226 | 6.1% | 170 | 170 | 4.6% |
 | Multi-method listicle (e.g. '7 ways to make money with Claude'), no single method in title | 0 | 0.0% | 0 | 219 | 5.9% |
 | AI skills for jobs / career / salary | 182 | 4.9% | 129 | 90 | 2.4% |
 | Blogging / SEO / affiliate / niche sites / Pinterest | 137 | 3.7% | 76 | 70 | 1.9% |
-| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 100 | 2.7% | 66 | 50 | 1.4% |
 | Lead generation / cold email / outreach / sales | 94 | 2.6% | 57 | 54 | 1.5% |
+| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 94 | 2.6% | 60 | 45 | 1.2% |
 | E-commerce / dropshipping / Shopify / Amazon FBA | 77 | 2.1% | 44 | 43 | 1.2% |
 | AI chatbots / voice agents / receptionists for businesses | 49 | 1.3% | 24 | 23 | 0.6% |
 | Newsletters | 39 | 1.1% | 3 | 3 | 0.1% |
 
-Classified from title: 1876 (50.9%); only via description head (low confidence, not used for primary): 1099; no match anywhere: 711
-Low-confidence description-fallback labels for title-unclassified videos: [('faceless_content', 244), ('digital_products', 185), ('course_coaching', 102), ('websites_local', 90), ('automation_agency', 89), ('saas_apps', 80), ('trading_crypto', 56), ('newsletter', 36), ('freelancing', 35), ('blogging_seo_affiliate', 34), ('one_person_business_agents', 33), ('leadgen_cold_email', 30), ('chatbots_voice_agents', 22), ('jobs_career', 22), ('skills_prompts_templates', 21), ('ecommerce', 20)]
+Classified from title: 1875 (50.9%); only via description head (low confidence, not used for primary): 1100; no match anywhere: 711
+Low-confidence description-fallback labels for title-unclassified videos: [('faceless_content', 244), ('digital_products', 185), ('course_coaching', 103), ('websites_local', 90), ('automation_agency', 89), ('saas_apps', 80), ('trading_crypto', 56), ('newsletter', 36), ('freelancing', 35), ('blogging_seo_affiliate', 34), ('one_person_business_agents', 33), ('leadgen_cold_email', 30), ('chatbots_voice_agents', 22), ('jobs_career', 22), ('skills_prompts_templates', 21), ('ecommerce', 20)]
 
 ## Performance by primary method — R
 
 | Method | n | total views | median views | mean views | median views/subscriber | median engagement (likes+comments)/views, videos >=1k views | n with >=100k views |
 |---|---|---|---|---|---|---|---|
-| Unclassified by title (generic 'make money with Claude' / unclear) | 1703 | 73,470,205 | 1,298 | 43,142 | 0.413 | 2.98% | 153 |
+| Unclassified by title (generic 'make money with Claude' / unclear) | 1704 | 73,470,402 | 1,292 | 43,116 | 0.412 | 2.98% | 153 |
+| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 402 | 31,189,015 | 2,558 | 77,585 | 0.377 | 2.83% | 50 |
 | Multi-method listicle (e.g. '7 ways to make money with Claude'), no single method in title | 240 | 30,720,172 | 2,534 | 128,001 | 0.261 | 3.30% | 42 |
-| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 399 | 29,185,990 | 2,541 | 73,148 | 0.372 | 2.82% | 49 |
 | Faceless YouTube / TikTok / Instagram / short-form content | 212 | 24,591,049 | 6,928 | 115,996 | 0.893 | 3.61% | 48 |
 | Building/selling websites (often to local businesses) | 215 | 12,484,440 | 5,964 | 58,067 | 0.516 | 3.19% | 34 |
-| AI agents / 'AI employees' / one-person business (generic) | 118 | 11,084,258 | 12,164 | 93,934 | 0.347 | 3.61% | 22 |
+| AI agents / 'AI employees' / one-person business (generic) | 121 | 11,635,918 | 12,288 | 96,165 | 0.411 | 3.61% | 24 |
 | Digital products / ebooks / KDP / Etsy / print-on-demand | 337 | 10,872,372 | 2,568 | 32,262 | 0.377 | 3.82% | 27 |
 | Trading / investing / crypto / prediction-market bots | 176 | 9,824,329 | 5,478 | 55,820 | 0.526 | 2.75% | 18 |
 | AI skills for jobs / career / salary | 91 | 5,934,412 | 9,506 | 65,213 | 1.000 | 2.91% | 15 |
 | AI automation agency / selling automations & workflows to businesses | 139 | 5,872,382 | 1,380 | 42,247 | 0.448 | 2.90% | 15 |
-| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 54 | 3,285,113 | 447 | 60,835 | 0.831 | 3.63% | 5 |
 | E-commerce / dropshipping / Shopify / Amazon FBA | 44 | 2,245,569 | 20,504 | 51,036 | 0.413 | 4.09% | 5 |
 | Blogging / SEO / affiliate / niche sites / Pinterest | 74 | 1,638,923 | 1,225 | 22,148 | 0.267 | 3.55% | 5 |
 | Freelancing / gigs (Upwork, Fiverr, services) | 134 | 1,339,039 | 398 | 9,993 | 0.632 | 2.60% | 3 |
+| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 47 | 730,231 | 413 | 15,537 | 0.586 | 3.75% | 2 |
 | Lead generation / cold email / outreach / sales | 57 | 358,601 | 1,248 | 6,291 | 0.581 | 3.06% | 0 |
 | AI chatbots / voice agents / receptionists for businesses | 27 | 352,486 | 4,420 | 13,055 | 0.958 | 3.40% | 0 |
 | Selling courses / coaching / info products / community about AI | 19 | 220,976 | 611 | 11,630 | 0.683 | 3.37% | 0 |
@@ -117,20 +117,20 @@ Low-confidence description-fallback labels for title-unclassified videos: [('fac
 
 | Method | n | total views | median views | mean views | median views/subscriber | median engagement (likes+comments)/views, videos >=1k views | n with >=100k views |
 |---|---|---|---|---|---|---|---|
-| Unclassified by title (generic 'make money with Claude' / unclear) | 1027 | 62,151,499 | 4,853 | 60,518 | 0.233 | 3.38% | 137 |
+| Unclassified by title (generic 'make money with Claude' / unclear) | 1028 | 62,151,696 | 4,844 | 60,459 | 0.231 | 3.38% | 137 |
 | Multi-method listicle (e.g. '7 ways to make money with Claude'), no single method in title | 196 | 29,661,747 | 9,239 | 151,335 | 0.192 | 3.31% | 40 |
-| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 307 | 27,565,560 | 6,637 | 89,790 | 0.317 | 3.03% | 47 |
+| Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 310 | 29,568,585 | 6,728 | 95,383 | 0.323 | 3.04% | 48 |
 | Faceless YouTube / TikTok / Instagram / short-form content | 169 | 22,728,065 | 12,338 | 134,486 | 0.587 | 3.84% | 45 |
 | Building/selling websites (often to local businesses) | 154 | 10,707,548 | 13,239 | 69,530 | 0.342 | 3.30% | 29 |
-| AI agents / 'AI employees' / one-person business (generic) | 99 | 10,550,789 | 17,564 | 106,574 | 0.250 | 3.61% | 21 |
+| AI agents / 'AI employees' / one-person business (generic) | 100 | 10,550,790 | 16,836 | 105,508 | 0.250 | 3.61% | 21 |
 | Digital products / ebooks / KDP / Etsy / print-on-demand | 252 | 9,852,697 | 5,504 | 39,098 | 0.318 | 3.85% | 24 |
 | Trading / investing / crypto / prediction-market bots | 139 | 8,219,972 | 8,013 | 59,136 | 0.314 | 3.07% | 16 |
 | AI automation agency / selling automations & workflows to businesses | 86 | 5,113,707 | 2,406 | 59,462 | 0.271 | 2.91% | 13 |
 | AI skills for jobs / career / salary | 49 | 4,733,078 | 26,966 | 96,593 | 0.582 | 2.62% | 10 |
-| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 34 | 2,688,577 | 582 | 79,076 | 0.482 | 3.63% | 3 |
 | E-commerce / dropshipping / Shopify / Amazon FBA | 35 | 2,179,209 | 22,521 | 62,263 | 0.303 | 4.17% | 5 |
 | Blogging / SEO / affiliate / niche sites / Pinterest | 51 | 1,614,251 | 4,010 | 31,652 | 0.178 | 3.95% | 5 |
 | Freelancing / gigs (Upwork, Fiverr, services) | 91 | 1,299,181 | 984 | 14,277 | 0.376 | 3.33% | 3 |
+| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 29 | 685,354 | 462 | 23,633 | 0.482 | 3.75% | 2 |
 | AI chatbots / voice agents / receptionists for businesses | 22 | 343,730 | 5,882 | 15,624 | 0.878 | 3.83% | 0 |
 | Lead generation / cold email / outreach / sales | 40 | 334,954 | 1,910 | 8,374 | 0.566 | 3.20% | 0 |
 | Selling courses / coaching / info products / community about AI | 12 | 209,114 | 1,770 | 17,426 | 0.639 | 3.75% | 0 |
@@ -140,10 +140,10 @@ Low-confidence description-fallback labels for title-unclassified videos: [('fac
 
 | Method | n | total views | median views | median views/sub |
 |---|---|---|---|---|
-| AI automation agency / selling automations & workflows to businesses | 485 | 22,404,668 | 1,098 | 0.373 |
+| AI automation agency / selling automations & workflows to businesses | 486 | 22,404,865 | 1,096 | 0.371 |
 | Build & sell SaaS / micro-SaaS / apps / software (incl. vibe coding) | 699 | 46,841,408 | 2,541 | 0.372 |
 | Building/selling websites (often to local businesses) | 335 | 19,085,856 | 4,894 | 0.418 |
-| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 105 | 3,799,087 | 701 | 0.500 |
+| Selling Claude skills / prompts / templates / GPTs / MCP servers / plugins | 97 | 1,242,892 | 612 | 0.470 |
 | Digital products / ebooks / KDP / Etsy / print-on-demand | 537 | 23,553,463 | 2,553 | 0.302 |
 | Faceless YouTube / TikTok / Instagram / short-form content | 590 | 47,824,694 | 6,450 | 0.250 |
 | Blogging / SEO / affiliate / niche sites / Pinterest | 147 | 7,307,349 | 1,227 | 0.294 |
@@ -151,7 +151,7 @@ Low-confidence description-fallback labels for title-unclassified videos: [('fac
 | Trading / investing / crypto / prediction-market bots | 235 | 15,155,668 | 3,997 | 0.622 |
 | AI chatbots / voice agents / receptionists for businesses | 53 | 422,372 | 1,277 | 0.408 |
 | Lead generation / cold email / outreach / sales | 98 | 1,543,885 | 1,410 | 0.425 |
-| Selling courses / coaching / info products / community about AI | 314 | 14,705,303 | 10,045 | 0.168 |
+| Selling courses / coaching / info products / community about AI | 315 | 14,705,500 | 9,989 | 0.167 |
 | Freelancing / gigs (Upwork, Fiverr, services) | 241 | 2,548,373 | 312 | 1.000 |
 | E-commerce / dropshipping / Shopify / Amazon FBA | 85 | 9,729,986 | 22,196 | 0.191 |
 | AI skills for jobs / career / salary | 184 | 8,132,874 | 2,164 | 0.459 |
@@ -169,8 +169,8 @@ USD claims with explicit period, normalised to $/month: n=527, median $10,000/mo
 Buckets: {'<$1k/mo': 40, '$1k-<$10k/mo': 123, '$10k-<$50k/mo': 286, '$50k-<$100k/mo': 33, '>=$100k/mo': 45}
 
 Income claim by primary method (share of titles with a figure):
-- unclassified: 449/1703 (26.4%)
-- saas_apps: 206/399 (51.6%)
+- unclassified: 450/1704 (26.4%)
+- saas_apps: 206/402 (51.2%)
 - digital_products: 105/337 (31.2%)
 - multi_method_listicle: 28/240 (11.7%)
 - websites_local: 150/215 (69.8%)
@@ -178,11 +178,11 @@ Income claim by primary method (share of titles with a figure):
 - trading_crypto: 77/176 (43.8%)
 - automation_agency: 43/139 (30.9%)
 - freelancing: 27/134 (20.1%)
-- one_person_business_agents: 24/118 (20.3%)
+- one_person_business_agents: 27/121 (22.3%)
 - jobs_career: 9/91 (9.9%)
 - blogging_seo_affiliate: 23/74 (31.1%)
 - leadgen_cold_email: 15/57 (26.3%)
-- skills_prompts_templates: 19/54 (35.2%)
+- skills_prompts_templates: 15/47 (31.9%)
 - ecommerce: 31/44 (70.5%)
 - chatbots_voice_agents: 18/27 (66.7%)
 - course_coaching: 9/19 (47.4%)
@@ -219,8 +219,8 @@ Top-viewed titles with income claims:
 
 | Method | 2023 n (%) | 2024 n (%) | 2025 n (%) | 2026 n (%) |
 |---|---|---|---|---|
-| unclassified | 4 (50.0%) | 6 (25.0%) | 45 (20.5%) | 1648 (43.5%) |
-| saas_apps | 0 (0.0%) | 2 (8.3%) | 78 (35.6%) | 319 (8.4%) |
+| unclassified | 4 (50.0%) | 6 (25.0%) | 45 (20.5%) | 1649 (43.5%) |
+| saas_apps | 0 (0.0%) | 2 (8.3%) | 79 (36.1%) | 321 (8.5%) |
 | digital_products | 0 (0.0%) | 5 (20.8%) | 20 (9.1%) | 312 (8.2%) |
 | multi_method_listicle | 1 (12.5%) | 3 (12.5%) | 9 (4.1%) | 227 (6.0%) |
 | websites_local | 0 (0.0%) | 2 (8.3%) | 7 (3.2%) | 206 (5.4%) |
@@ -228,11 +228,11 @@ Top-viewed titles with income claims:
 | trading_crypto | 0 (0.0%) | 0 (0.0%) | 12 (5.5%) | 164 (4.3%) |
 | automation_agency | 1 (12.5%) | 0 (0.0%) | 9 (4.1%) | 129 (3.4%) |
 | freelancing | 0 (0.0%) | 2 (8.3%) | 12 (5.5%) | 120 (3.2%) |
-| one_person_business_agents | 0 (0.0%) | 0 (0.0%) | 6 (2.7%) | 112 (3.0%) |
+| one_person_business_agents | 0 (0.0%) | 0 (0.0%) | 8 (3.7%) | 113 (3.0%) |
 | jobs_career | 0 (0.0%) | 0 (0.0%) | 1 (0.5%) | 90 (2.4%) |
 | blogging_seo_affiliate | 0 (0.0%) | 0 (0.0%) | 3 (1.4%) | 71 (1.9%) |
 | leadgen_cold_email | 0 (0.0%) | 0 (0.0%) | 2 (0.9%) | 55 (1.5%) |
-| skills_prompts_templates | 0 (0.0%) | 0 (0.0%) | 5 (2.3%) | 49 (1.3%) |
+| skills_prompts_templates | 0 (0.0%) | 0 (0.0%) | 2 (0.9%) | 45 (1.2%) |
 | ecommerce | 0 (0.0%) | 0 (0.0%) | 0 (0.0%) | 44 (1.2%) |
 | chatbots_voice_agents | 0 (0.0%) | 0 (0.0%) | 3 (1.4%) | 24 (0.6%) |
 | course_coaching | 0 (0.0%) | 2 (8.3%) | 1 (0.5%) | 16 (0.4%) |
@@ -246,7 +246,7 @@ Top-viewed titles with income claims:
 | automation_agency | 18.3% | 11.3% | 12.8% | 11.2% |
 | saas_apps | 41.7% | 43.4% | 17.8% | 14.0% |
 | websites_local | 6.7% | 3.8% | 8.6% | 8.4% |
-| skills_prompts_templates | 5.0% | 1.9% | 3.1% | 2.2% |
+| skills_prompts_templates | 1.7% | 1.3% | 2.9% | 2.1% |
 | digital_products | 11.7% | 12.6% | 12.6% | 13.8% |
 | faceless_content | 10.0% | 5.7% | 15.5% | 14.5% |
 | blogging_seo_affiliate | 3.3% | 2.5% | 4.3% | 3.1% |
@@ -254,7 +254,7 @@ Top-viewed titles with income claims:
 | trading_crypto | 1.7% | 7.5% | 5.6% | 6.0% |
 | chatbots_voice_agents | 1.7% | 1.3% | 1.6% | 1.1% |
 | leadgen_cold_email | 1.7% | 1.3% | 3.4% | 1.8% |
-| course_coaching | 3.3% | 3.8% | 9.0% | 7.1% |
+| course_coaching | 3.3% | 3.8% | 9.1% | 7.1% |
 | freelancing | 10.0% | 6.9% | 5.9% | 5.8% |
 | ecommerce | 1.7% | 1.3% | 2.2% | 2.1% |
 | jobs_career | 0.0% | 2.5% | 4.3% | 5.1% |
@@ -358,7 +358,7 @@ Among non-Shorts in R (n=2764): skool.com link 15.1%; any own-offer 63.4%; affil
 | 7 | 2,583,320 | 2024-12-27 | Edmund Yong | How I Code Profitable Apps SOLO (no wasted time / beginner friendly / with AI) | saas_apps | saas_apps | N | https://www.youtube.com/watch?v=CNsvts6pVzo |
 | 8 | 2,543,172 | 2024-10-02 | All About Money | How I Created a $10,000/month Faceless YouTube Channel Using Free AI Tools | faceless_content | faceless_content | N | https://www.youtube.com/watch?v=LEJGFnjIWmQ |
 | 9 | 2,212,925 | 2026-02-28 | Dhaval Kataria | I Tried Raj Shamani's Business Idea to Make ₹1,00,000 (Copy This) | unclassified | websites_local, faceless_content, blogging_seo_affiliate | N | https://www.youtube.com/watch?v=IW5_ivFlO6U |
-| 10 | 1,971,371 | 2025-05-23 | Nate Herk | AI Automation | Build & Sell n8n AI Agents (8+ Hour Course, No Code) | skills_prompts_templates | automation_agency, saas_apps, skills_prompts_templates, one_person_business_agents | Y | https://www.youtube.com/watch?v=Ey18PDiaAYI |
+| 10 | 1,971,371 | 2025-05-23 | Nate Herk | AI Automation | Build & Sell n8n AI Agents (8+ Hour Course, No Code) | saas_apps | automation_agency, saas_apps, one_person_business_agents | Y | https://www.youtube.com/watch?v=Ey18PDiaAYI |
 | 11 | 1,946,903 | 2026-03-16 | The Diary Of A CEO | Daniel Priestley: AI Will Make Plumbers Earn More Than Lawyers! (2029 PREDICTION) | unclassified |  | N | https://www.youtube.com/watch?v=fpETS6q1Hww |
 | 12 | 1,892,652 | 2025-05-07 | Vaibhav Kadnar | ⁠⁠5 Ways To Make Money With ChatGPT As A Student / Vaibhav Kadnar | multi_method_listicle | websites_local | N | https://www.youtube.com/watch?v=fWQNuA_z330 |
 | 13 | 1,744,974 | 2026-09-03 | Raj Shamani | How AI Makes Him Crores: Second Brain, Automations & Systems / Vaibhav Sisinty / FO557 Raj Shamani | automation_agency | automation_agency | Y | https://www.youtube.com/watch?v=LqY6hFLMEJw |
