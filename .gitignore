@@ -23,4 +23,5 @@ code/version.txt
 # Babel files
 messages.po-e
 messages.pot
-translated.poresearch_notes/*/data/raw_web_search_cache/
+translated.po
+research_notes/*/data/raw_*cache/
