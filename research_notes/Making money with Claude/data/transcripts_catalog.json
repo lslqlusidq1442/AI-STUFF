@@ -1,0 +1,134 @@
+{
+ "transcripts_analyzed": 1,
+ "note": "Collection halted: YouTube bot-check block + paid transcript tools out of credits. See youtube_transcripts_analysis.md.",
+ "records": [
+  {
+   "relevant": true,
+   "relevance_note": "Uses Claude prompts to pick a service to sell, build a 20-day plan, and land the first client (LinkedIn ghostwriting demo).",
+   "video_type": "tutorial_walkthrough",
+   "methods": [
+    {
+     "category": "content_creation_social_ghostwriting",
+     "name": "Productized LinkedIn ghostwriting for SaaS founders via cold DMs and free-sample close",
+     "steps": [
+      "Run prompt 1 in Claude: two ways to make first $1,000 in 30 days, using existing skills, no audience, sellable in 48 hours, with clarifying questions until 95% confident",
+      "Answer Claude's clarifying questions (background, hours, network, industry, skills, portfolio)",
+      "Pick one of Claude's two suggested paths",
+      "Run prompt 2: name the single most successful person to learn from (Justin Welsh)",
+      "Run prompt 3: have Claude role-play that person and make a 20-day plan under $1,000 with customer acquisition from day one",
+      "Days 1-3: build assets (polish your own LinkedIn profile) and a prospecting list of SaaS founders/CEOs via LinkedIn search",
+      "Days 4-10: send DMs and offer a free sample post written in the founder's voice",
+      "Close with a price (e.g. $500) without discounting; send a Stripe payment link",
+      "Use the bonus procrastination prompt to cut the plan in half and keep only money-making steps; track DMs on a sticky note"
+     ],
+     "tools": [
+      "Claude.ai",
+      "LinkedIn",
+      "LinkedIn Premium",
+      "Stripe payment link"
+     ],
+     "tool_costs": "Under $1,000 upfront total; LinkedIn Premium and a Stripe payment link mentioned as the main costs, no exact prices",
+     "customer": "SaaS founders and executives",
+     "price_charged": "Claude suggested a single yes could be $750; $500 used in the bonus-prompt example",
+     "claimed_income": "Creator claims an extra $15,000 in 10 days with under $1,000 invested, using these prompts; not tied to this specific service",
+     "income_attribution": "creator_own",
+     "time_to_first_sale": "20-day plan to first paying customer; creator claims $15K in 10 days",
+     "manual_work": "admitted_required",
+     "manual_work_evidence": "Needs about 300 cold DMs, free sample posts, and a daily DM quota; 'the unsexy thing 300 times in a row, which is sending DMs'",
+     "automation_claim": "none",
+     "depth": "demonstrated_on_screen"
+    },
+    {
+     "category": "content_creation_social_ghostwriting",
+     "name": "Productized LinkedIn profile cleanup plus five launch posts package",
+     "steps": [
+      "Claude suggested this as option two in the demo; no further steps given"
+     ],
+     "tools": [
+      "Claude.ai",
+      "LinkedIn"
+     ],
+     "tool_costs": "not stated",
+     "customer": "not stated",
+     "price_charged": "not stated",
+     "claimed_income": "none",
+     "income_attribution": "none",
+     "time_to_first_sale": "not stated",
+     "manual_work": "implied_required",
+     "manual_work_evidence": "Service is delivered manually, with profile cleanup and posts written per client",
+     "automation_claim": "none",
+     "depth": "brief_mention"
+    }
+   ],
+   "creator_personal_income_claim": "Made an extra $15,000 in 10 days with less than $1,000 invested upfront, using these prompts (verbal claim)",
+   "proof_level": "verbal_claim_only",
+   "proof_details": "The $15K claim is verbal only. No dashboard, Stripe or bank screen is referenced. The on-screen content is the Claude prompt demo.",
+   "monetization_funnel": {
+    "sells_course_or_community": false,
+    "course_details": "none",
+    "affiliate_links": true,
+    "affiliate_details": "Description links to blotato.com with a ref code (?ref=yt-june2026-vegas), offering 7 Viral Claude Skills for signups before 6/25",
+    "sponsor": false,
+    "sponsor_details": "none",
+    "sells_agency_or_service": false,
+    "other_upsell": "Free resources at sabrina.dev; the creator is founder of the Blotato SaaS"
+   },
+   "warnings_caveats": [
+    "The $15K claim is not substantiated and is not tied to a specific method in the video",
+    "The demo's income figures ($750, $500) are Claude's suggestions or hypothetical examples",
+    "Success depends on high-volume cold outreach and sales effort",
+    "Claude's recommendations depend on how much context it has about you"
+   ],
+   "failure_modes": [
+    "Not sending the DMs (biggest reason for failure per the creator)",
+    "Getting ghosted and quitting before the next DM",
+    "Fear of rejection",
+    "Discounting or over-justifying the price, and not tolerating silence after quoting",
+    "Over-consuming the mentor's content instead of doing outreach",
+    "Plans that put customer acquisition too late",
+    "Procrastination"
+   ],
+   "key_quotes": [
+    {
+     "ts": "00:00",
+     "quote": "I'm going to show you three prompts I gave Claude to make me an extra $15,000 in 10 days with less than $1,000 invested upfront."
+    },
+    {
+     "ts": "01:00",
+     "quote": "Give me two ways I could make my first $1,000 in 30 days. Both ways must require skills I already have, not require an audience, and be sellable within 48 hours."
+    },
+    {
+     "ts": "08:06",
+     "quote": "Offer to write one post in their voice free no strings attached... Send it over and say, 'Hey, if you like it, post it. If you want more, hit me up.'"
+    },
+    {
+     "ts": "09:07",
+     "quote": "The skill isn't the writing. I already have that. The skill is doing the unsexy thing 300 times in a row, which is sending DMs."
+    },
+    {
+     "ts": "11:08",
+     "quote": "Volume is a beautiful thing... volume gives you data and feedback faster."
+    }
+   ],
+   "concreteness_1to5": 3,
+   "summary": "Sabrina Ramonov demos a chain of three Claude prompts, plus a bonus procrastination prompt, to choose a service, pick a mentor to model, and build a 20-day plan to a first $1,000 client. The live example is LinkedIn ghostwriting for SaaS founders, using cold DMs and a free-sample close. She claims $15K in 10 days from these prompts but shows no proof. The method needs heavy manual outreach.",
+   "_meta": {
+    "id": "AP-fOOmm02g",
+    "truncated": false,
+    "cost": 0.1277991,
+    "model": [
+     "claude-sonnet-5-5"
+    ]
+   },
+   "_video": {
+    "id": "AP-fOOmm02g",
+    "title": "I Asked Claude To Make Me As Much Money As Possible",
+    "channel": "Sabrina Ramonov \ud83c\udf44",
+    "upload_date": "20260411",
+    "view_count": 487165,
+    "duration": 728,
+    "url": "https://www.youtube.com/watch?v=AP-fOOmm02g"
+   }
+  }
+ ]
+}
