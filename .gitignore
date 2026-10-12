@@ -25,3 +25,4 @@ messages.po-e
 messages.pot
 translated.po
 research_notes/*/data/raw_*cache/
+research_notes/*/data/video_details.json
